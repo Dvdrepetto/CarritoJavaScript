@@ -1,0 +1,38 @@
+[
+    {
+        "precio": 850,
+        "id": 1,
+        "title": "Margarita",
+        "thumbnailUrl": "/img/margarita.jpg"
+    },
+    {
+        "precio": 900,
+        "id": 2,
+        "title": "Cuatro Quesos",
+        "thumbnailUrl": "/img/cuatroQuesos.jpg"
+    },
+    {
+        "precio": 900,
+        "id": 3,
+        "title": "Napolitana",
+        "thumbnailUrl": "/img/napolitana.jpg"
+    },
+    {
+        "precio": 950,
+        "id": 4,
+        "title": "Carbonara",
+        "thumbnailUrl": "/img/carbonara.jpg"
+    },
+    {
+        "precio": 1050,
+        "id": 5,
+        "title": "Peperoni",
+        "thumbnailUrl": "/img/peperoni.jpg"
+    },
+    {
+        "precio": 900,
+        "id": 6,
+        "title": "Diávola",
+        "thumbnailUrl": "/img/diavola.jpg"
+    }
+]
